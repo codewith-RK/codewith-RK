@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codewith-RK
-- 👀 I’m interested in back-end development 
-- 🌱 I’m currently learning React-JS and Python-Django / Full Stack Developer.
+- 👀 I’m interested in AI/ML development 
+- 🌱 I’m currently learned AI/ML and Python-Django / FastAPI.
 - 💞️ I’m looking to collaborate on an internship.
 - 📫 How to reach me ..(https://www.linkedin.com/in/rahul-kumawat-906942231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
